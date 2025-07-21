@@ -3,11 +3,11 @@ Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para prati
 - 📝 Atualmente estudando ferramentas Front-End e Interfaces de usuário.
 - 📈 Gosto da área de desenvolvimento de sistemas. Tenho conhecimentos intermediários de Java e Python.
 
-<div><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" style="height:64px;">
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" style="height:64px;">
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" alt="Javascript" style="height:64px;">   
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style="height:64px;">     
-<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="height:64px;"></div>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,js,react" />
+  </a>
+</p>
 
 Abraço e tamo junto!
 # Stats

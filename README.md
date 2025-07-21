@@ -2,7 +2,6 @@
 Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para praticar os meus aprendizados.
 - 📝 Atualmente estudando ferramentas Front-End e Interfaces de usuário.
 - 📈 Gosto da área de desenvolvimento de sistemas. Tenho conhecimentos intermediários de Java e Python.
-- ⚙️ Tecnologias que utilizo:
 
 <div><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java" style="height:64px;">
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" style="height:64px;">

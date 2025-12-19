@@ -9,6 +9,8 @@ Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para prati
   </a>
 </p>
 
+![SamuMeneDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuMeneDev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 Abraço e tamo junto!
 
 # Contatos

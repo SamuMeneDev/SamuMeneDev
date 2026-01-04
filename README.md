@@ -5,7 +5,7 @@ Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para prati
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,ts,angular,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,ts,angular,spring,react,tailwind,git" />
   </a>
 </p>
 

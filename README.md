@@ -1,11 +1,16 @@
 # Olá Samu Mene aqui!
 Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para praticar os meus aprendizados.
-- 📝 Atualmente estudando ferramentas Front-End e Interfaces de usuário.
-- 📈 Gosto da área de desenvolvimento de sistemas. Tenho conhecimentos intermediários de Java e Python.
-
+- 📝 Tenho estudado e desenvolvido aplicações tanto Front-End e Back-End.
+- 📈 Gosto da área de desenvolvimento de sistemas. Tenho conhecimentos intermediários de Java e Ferramentas Front-End.
+## Minhas Principais Tecnologias
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,mysql,ts,angular,spring,react,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql,ts" />
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=angular,react,tailwind,laravel,spring,git" />
   </a>
 </p>
 
@@ -14,10 +19,5 @@ Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para prati
 Abraço e tamo junto!
 
 # Contatos
-<a href="mailto:samuelsantiago2222@gmail.com"> Meu E-mail</a>
-
-<!-- 👋 Hi, I’m @SamuMeneDev
-- 👀 I’m interested in learn the more used technologies.
-- 🌱 I’m currently learning Front-End technologies.
-- ⚡ Fun fact: my first programming language was Java.
--->
+<a href="mailto:samuelsantiago2222@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/samuel-isidro-santiago-aba1b131b/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>

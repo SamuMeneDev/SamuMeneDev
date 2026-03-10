@@ -10,7 +10,7 @@ Me chamo Samuel (vulgo Samu Mene), aqui estou sempre criando projetos para prati
 </p>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=angular,react,tailwind,laravel,spring,git" />
+    <img src="https://skillicons.dev/icons?i=angular,next,react,tailwind,laravel,spring,git" />
   </a>
 </p>
 
